@@ -1,0 +1,5 @@
+for charts : https://github.com/J-T-McC/vue3-chartjs
+
+tables = vue-good-table-next
+
+pagination :https://vuejsexamples.com/a-vue-3-component-to-make-pagination-based-on-vuejs-paginate/
